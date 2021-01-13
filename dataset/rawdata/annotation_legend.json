@@ -26,7 +26,7 @@
   "r_43" : "drug_synonym(e_29|e_29)",
   "r_44" : "food_synonym(e_33|e_33)",
   "r_45" : "drug_synonym2(e_29|e_29)",
-  "r_46" : "food_synonym2(e_33|e_33)"
+  "r_46" : "food_synonym2(e_33|e_33)",
   "r_47" : "drug_metaoblizer_synonym(e_26|e_26)",
   "r_48" : "drug_transporter_synonym(e_28|e_28)",
   "r_49" : "well_known_targt_synonym(e_32|e_32)",
