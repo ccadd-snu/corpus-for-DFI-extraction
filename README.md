@@ -13,7 +13,7 @@
 <table>
   <thead>
     <tr>
-      <th rowspan="2">1</th>
+      <th>1</th>
       <th>3</th>
       <th>4</th>
       <th>5</th>
