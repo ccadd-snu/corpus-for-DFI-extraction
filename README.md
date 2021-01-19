@@ -7,4 +7,4 @@
 | Evidence-level | Training |  Development | Test |
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
-| a  | < ||
+| >  | a ||
