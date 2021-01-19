@@ -35,11 +35,11 @@
 **Table 3.** Performance score (F1) of BERT models for DFI extraction tasks
 |	Classification tasks		|	Base-BERT	|	BioBERT	|	PubMedBERT	|	ClinicalBERT	|
 | ------------ | :-----------: | :-----------: | :-----------: | :-----------: |
-|	Key-sentence classification		|	82	|	82.6	|	85.1	|	81.4	|
-|	Evidence level annotation		|		|		|		|		|
+|	**Key-sentence classification**		|	82	|	82.6	|	85.1	|	81.4	|
+|	**Evidence level annotation**		|		|		|		|		|
 |	weighted F1 score		|	80	|	83.1	|	83.8	|	79.3	|
 |	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
-|	Named entity recognition		|		|		|		|		|
+|	**Named entity recognition**		|		|		|		|		|
 |	weighted F1 score		|	80	|	83.1	|	83.8	|	79.3	|
 |	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
 
