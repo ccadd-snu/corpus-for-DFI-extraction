@@ -7,7 +7,3 @@
 | Evidence-level | Training |  Development | Test |
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
-
-| > | horizontal merged cell        |
-| vertical merged cell      | data1 |
-| ^                        | data2 |
