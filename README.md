@@ -6,7 +6,6 @@
 
 ## Distribution of evidence-level and named entities of the `DFI corpus`
 
-<p align="center">
 Table 1. Distribution of the annotated evidence-levels in the `DFI corpus`
 |Evidence-level  | Training | Development | Test |
 | ------------ | :-----------: | :-----------: | :-----------: |
@@ -30,5 +29,5 @@ Table 2. Distribution of the annotated entity types in the `DFI corpus`
 |'drug transporter'	|	288 (0.07)	|	113 (0.10)	|	14 (0.03)	|
 |'none'	|	361545 (93.92)	|	105688 (93.96)	|	51752 (94.23)	|
 |total	|	384965 (100.0)	|	112485 (100.0)	|	54921 (100.0)	|
-</p>
+
 
