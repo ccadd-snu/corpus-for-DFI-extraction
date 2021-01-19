@@ -18,7 +18,7 @@
 |'others'       | 250 (15.73)	| 71 (15.57)	| 36 (15.93) |
 | **total** | **384965 (100.0)** | **112485 (100.0)** | **54921 (100.0)** |
 
-<br/> <br/>
+<br/>
 
 **Table 2.** Distribution of the annotated entity types in the `DFI corpus`
 |Entity type  | Training | Development | Test |
