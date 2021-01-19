@@ -1,9 +1,10 @@
 # Corpus for DFI extraction
 
-`Corpus for DFI` (Drug-Food Interaction) extraction is the largest manually annotated corpus consisted of 2271 abstracts of biomedical articles published by PubMed for developing an NLP model extracting DFI. We introduced our dataset for  
+`Corpus for DFI` (Drug-Food Interaction) extraction is the largest manually annotated corpus consisted of 2271 abstracts of biomedical articles published by PubMed for developing an NLP model extracting DFI. 1.	We introduced our manually annotated corups for extracting DFI information from abstracts of biomedical articles and suggested ‘DFI key-sentence’ as a target entity for DFI extraction. To best our knowledge, our dataset for DFI extraction is the first manually annotated dataset for extracting DFI from biomedical articles and the largest and the most comprehensive dataset for extracting drug interaction, including DDI.
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
+## Entities and evidence-level distribution of `DFI corpus`
 
 |Evidence-level  | Training | Development | Test |
 | ------------ | :-----------: | :-----------: | :-----------: |
