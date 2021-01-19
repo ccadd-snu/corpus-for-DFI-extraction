@@ -9,10 +9,7 @@
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
 | >  | a |||
 
-
-| Column 1                | Col 2 | Big row span   |
-|:-----------------------:|-------| -------------- |
-| r1_c1 spans two cols           || One large cell |
-| r2_c1 spans two rows    | r2_c2 |                |
-|_^                      _| r3_c2 |                |
-|    ______ &#20;         | r4_c2 |_              _|
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| r1,c1    | r1,c2    | r1,c3    | r1,c4    |
+| r2,c1              || r2,c3    | r2,c4    |
