@@ -4,12 +4,8 @@
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
+| Evidence-level | Number of abstracts (#, %) <td colspan=3> |
 | Evidence-level | Training |  Development | Test |
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
 | >  | a |||
-
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| -------- | -------- | -------- | -------- |
-| r1,c1    | r1,c2    | r1,c3    | r1,c4    |
-| r2,c1              || r2,c3    | r2,c4    |
