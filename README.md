@@ -4,12 +4,11 @@
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th colspan=2>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-  </thead>
-</table>
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
