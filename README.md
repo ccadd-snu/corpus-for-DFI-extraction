@@ -16,6 +16,7 @@
 |'in-vitro study'       | 477 (30.02)	| 137 (30.04)	| 68 (30.09) |
 |'bioanalysis'       |  91 (5.73)	| 26 (5.70)	| 13 (5.75) |
 |'others'       | 250 (15.73)	| 71 (15.57)	| 36 (15.93) |
+| **total** | **384965 (100.0)** | **112485 (100.0)** | **54921 (100.0)** |
 
 **Table 2.** Distribution of the annotated entity types in the `DFI corpus`
 |Entity type  | Training | Development | Test |
@@ -27,7 +28,7 @@
 |'well known target'	|	6065 (1.58)	|	1723 (1.53)	|	679 (1.24)	|
 |'drug metabolizer'	|	697 (0.18)	|	176 (0.16)	|	125 (0.23)	|
 |'drug transporter'	|	288 (0.07)	|	113 (0.10)	|	14 (0.03)	|
-|**total	|	384965 (100.0)	|	112485 (100.0)	|	54921 (100.0)	**|
+|**total**	|	**384965 (100.0)**	|	**112485 (100.0)**	|	**54921 (100.0)** |
 
 
 ## Performance of BERT models trained on `DFI corpus`
