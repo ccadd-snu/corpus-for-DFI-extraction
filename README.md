@@ -9,22 +9,3 @@
 | Evidence-level | Training |  Development | Test |
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
-
-<table>
-  <thead>
-    <tr>
-      <th rowspan="2">evidence-level</th>
-      <th>training</th>
-      <th>development</th>
-      <th>test</th>
-    </tr>
-    <tbody>
-      <tr>
-        <tb>'clinical trial'</tb>
-        <tb>116 (7.30)</tb>
-        <tb>33 (7.24)</tb>
-        <tb>16 (7.08)</tb>
-      </tr>
-  </tbody>
-  </thead>
-</table>
