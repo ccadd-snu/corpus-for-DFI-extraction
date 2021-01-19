@@ -10,30 +10,29 @@
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
 
-
 <table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th rowspan="2">1</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">1</td>
+      <td rowspan="2">1</td>
+      <td rowspan="2" colspan="2">2</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>3</td>
+      <td colspan="2">5</td>
+    </tr>
+  </tbody>
 </table>
