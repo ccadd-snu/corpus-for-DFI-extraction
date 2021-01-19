@@ -6,7 +6,7 @@
 
 ## Distribution of evidence-level and named entities of the `DFI corpus`
 
-Table 1. Distribution of the annotated evidence-levels in the `DFI corpus`
+**Table 1.** Distribution of the annotated evidence-levels in the `DFI corpus`
 |Evidence-level  | Training | Development | Test |
 | ------------ | :-----------: | :-----------: | :-----------: |
 |'clinical trial'       | 116 (7.30) |	33 (7.24)	| 16 (7.08)
@@ -17,7 +17,7 @@ Table 1. Distribution of the annotated evidence-levels in the `DFI corpus`
 |'bioanalysis'       |  91 (5.73)	| 26 (5.70)	| 13 (5.75) |
 |'others'       | 250 (15.73)	| 71 (15.57)	| 36 (15.93) |
 
-Table 2. Distribution of the annotated entity types in the `DFI corpus`
+**Table 2.** Distribution of the annotated entity types in the `DFI corpus`
 |Entity type  | Training | Development | Test |
 | ------------ | :-----------: | :-----------: | :-----------: |
 |'drug'	|	5632 (1.46)	|	1669 (1.48)	|	787 (1.43)	|
