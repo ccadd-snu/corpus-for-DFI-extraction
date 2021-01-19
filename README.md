@@ -4,11 +4,11 @@
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
+First Header  | Second Header | Third Header | Third Header |
+ ------------ | :-----------: | :-----------: | :-----------: |
+Content       | Content       | Content       | Content       | 
+Content       | Content       | Content       | Content       | 
+Content       | Content       | Content       | Content       | 
+Content       | Content       | Content       | Content       | 
+Content       | Content       | Content       | Content       | 
+Content       | Content       | Content       | Content       | 
