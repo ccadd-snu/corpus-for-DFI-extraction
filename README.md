@@ -4,7 +4,7 @@
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
-<center>
+
 |Evidence-level  | Training | Development | Test |
 | ------------ | :-----------: | :-----------: | :-----------: |
 |'clinical trial'       | 116 (7.30) |	33 (7.24)	| 16 (7.08)
@@ -14,4 +14,4 @@
 |'in-vitro study'       | 477 (30.02)	| 137 (30.04)	| 68 (30.09) |
 |'bioanalysis'       |  91 (5.73)	| 26 (5.70)	| 13 (5.75) |
 |'others'       | 250 (15.73)	| 71 (15.57)	| 36 (15.93) |
-</center>
+
