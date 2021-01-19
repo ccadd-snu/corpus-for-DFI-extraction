@@ -18,5 +18,13 @@
       <th>development</th>
       <th>test</th>
     </tr>
+    <tbody>
+      <tr>
+        <tb>'clinical trial'</tb>
+        <tb>116 (7.30)</tb>
+        <tb>33 (7.24)</tb>
+        <tb>16 (7.08)</tb>
+      </tr>
+  </tbody>
   </thead>
 </table>
