@@ -27,9 +27,7 @@
 |'well known target'	|	6065 (1.58)	|	1723 (1.53)	|	679 (1.24)	|
 |'drug metabolizer'	|	697 (0.18)	|	176 (0.16)	|	125 (0.23)	|
 |'drug transporter'	|	288 (0.07)	|	113 (0.10)	|	14 (0.03)	|
-|'none'	|	361545 (93.92)	|	105688 (93.96)	|	51752 (94.23)	|
-| ------------ | :-----------: | :-----------: | :-----------: |
-|total	|	384965 (100.0)	|	112485 (100.0)	|	54921 (100.0)	|
+|**total	|	384965 (100.0)	|	112485 (100.0)	|	54921 (100.0)	**|
 
 
 ## Performance of BERT models trained on `DFI corpus`
@@ -43,3 +41,18 @@
 |	**Named entity recognition**		|		|		|		|		|
 |	weighted F1 score		|	80.0	|	83.1	|	83.8	|	79.3	|
 |	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
+
+
+
+Stage | Direct Products | ATP Yields
+----: | --------------: | ---------:
+Glycolysis | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+Pyruvaye oxidation | 2 NADH | 5 ATP |
+Citric acid cycle | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+[Net ATP yields per hexose]
+
+
