@@ -4,7 +4,9 @@
 
 <p align="center"><img src= 'https://user-images.githubusercontent.com/75958220/104395745-c1321780-558c-11eb-9121-2fa7895c56ff.png' width='450' height='450'></p>
 
+
 ## Distribution of evidence-level and named entities of the `DFI corpus`
+
 
 **Table 1.** Distribution of the annotated evidence-levels in the `DFI corpus`
 |Evidence-level  | Training | Development | Test |
@@ -17,6 +19,7 @@
 |'bioanalysis'       |  91 (5.73)	| 26 (5.70)	| 13 (5.75) |
 |'others'       | 250 (15.73)	| 71 (15.57)	| 36 (15.93) |
 | **total** | **384965 (100.0)** | **112485 (100.0)** | **54921 (100.0)** |
+
 
 **Table 2.** Distribution of the annotated entity types in the `DFI corpus`
 |Entity type  | Training | Development | Test |
@@ -31,6 +34,7 @@
 |**total**	|	**384965 (100.0)**	|	**112485 (100.0)**	|	**54921 (100.0)** |
 
 
+
 ## Performance of BERT models trained on `DFI corpus`
 **Table 3.** Performance score (F1) of BERT models for DFI extraction tasks
 |	Classification tasks		|	Base-BERT	|	BioBERT	|	PubMedBERT	|	ClinicalBERT	|
@@ -42,18 +46,3 @@
 |	**Named entity recognition**		|		|		|		|		|
 |	weighted F1 score		|	80.0	|	83.1	|	83.8	|	79.3	|
 |	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
-
-
-
-Stage | Direct Products | ATP Yields
-----: | --------------: | ---------:
-Glycolysis | 2 ATP ||
-^^ | 2 NADH | 3--5 ATP |
-Pyruvaye oxidation | 2 NADH | 5 ATP |
-Citric acid cycle | 2 ATP ||
-^^ | 6 NADH | 15 ATP |
-^^ | 2 FADH2 | 3 ATP |
-**30--32** ATP |||
-[Net ATP yields per hexose]
-
-
