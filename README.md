@@ -9,3 +9,13 @@
 | Evidence-level | Training |  Development | Test |
 |    :---   |    :---:   |    :---:   |    :---:   |
 |  'clinical trail' |  116 (7.30) |  33 (7.24) |  16 (7.08) |
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         || 
