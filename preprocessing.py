@@ -159,13 +159,7 @@ class Preprocessor():
                 except ValueError:
                     min_word_distance = 100
                     min_entity, min_entity_type = '<WAS-NOT-WORD-ENTITY>', 'none'
-
-                # print(word)
-                # print(min_word_distance)
-                # print(min_entity)
-                # print(min_entity_type)
-                # print('------------------------')
-
+                    
                 if (min_word_distance<=5) & (str(word) in min_entity):
                     for token in WORD_TOKENIZER.tokenize(str(word)):
                         word_cls_targets.append((token, min_entity, min_entity_type))
