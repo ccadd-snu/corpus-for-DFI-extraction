@@ -41,8 +41,8 @@
 | ------------ | :-----------: | :-----------: | :-----------: | :-----------: |
 |	**Key-sentence classification**		|	82.0	|	82.6	|	85.1	|	81.4	|
 |	**Evidence level annotation**		|		||||
-|	weighted F1 score		|	80.0	|	83.1	|	83.8	|	79.3	|
-|	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
+|	weighted F1 score		|	70.6|	72.8	|	70.4	|	67.3	|
+|	macro F1 score		|	61.9	|	65.6	|	63.1	|	53.6	|
 |	**Named entity recognition**		|		|		|		|		|
 |	weighted F1 score		|	80.0	|	83.1	|	83.8	|	79.3	|
 |	macro F1 score		|	83.1	|	85.2	|	86.1	|	82.3	|
